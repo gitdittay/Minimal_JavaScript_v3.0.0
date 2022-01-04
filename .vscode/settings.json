@@ -1,0 +1,6 @@
+{
+  "eslint.workingDirectories": [
+    "./react-scripts_JS",
+    "./nextjs_JS",
+  ]
+}
