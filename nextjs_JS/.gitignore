@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+\node_modules\@hookform
 
 # testing
 /coverage
@@ -31,7 +32,7 @@ yarn-error.log*
 .env.production.local
 
 # vercel
-.vercel
+#.vercel
 
 # Local Netlify folder
 .netlify
