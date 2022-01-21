@@ -5,7 +5,7 @@ function path(root, sublink) {
 }
 
 const ROOTS_AUTH = '/auth';
-const ROOTS_DASHBOARD = 'src/layouts/dashboard/index.js';
+const ROOTS_DASHBOARD = 'app';
 
 // ----------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ export const PATH_DASHBOARD = {
   },
 };
 
-export const ROOTS_DASHBOARD = 'http://localhost:3031';
+export const ROOTS_DASHBOARD = 'app';
