@@ -5,7 +5,7 @@ function path(root, sublink) {
 }
 
 const ROOTS_AUTH = '/auth';
-const ROOTS_DASHBOARD = '/dashboard';
+const ROOTS_DASHBOARD = 'src/layouts/dashboard/index.js';
 
 // ----------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ export const PATH_DASHBOARD = {
   },
 };
 
-export const PATH_DOCS = 'https://docs-minimals.vercel.app/introduction';
+export const ROOTS_DASHBOARD = 'app';
