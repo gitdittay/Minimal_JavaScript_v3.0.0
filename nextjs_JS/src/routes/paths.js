@@ -81,4 +81,4 @@ export const PATH_DASHBOARD = {
   },
 };
 
-export const ROOTS_DASHBOARD = 'app';
+export const ROOTS_DASHBOARD = 'http://localhost:3031/';
