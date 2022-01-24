@@ -2,5 +2,6 @@
   "eslint.workingDirectories": [
     "./react-scripts_JS",
     "./nextjs_JS",
-  ]
+  ],
+  "java.format.settings.url": ".vscode/java-formatter.xml"
 }
